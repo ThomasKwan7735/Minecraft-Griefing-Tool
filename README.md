@@ -1,1 +1,1 @@
-# Minecraft-Griefing-Tool
+Good Griefing Tool
