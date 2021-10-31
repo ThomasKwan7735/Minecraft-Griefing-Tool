@@ -1,2 +1,3 @@
-Good Griefing Tool
-By Keevo
+open cmd
+and type
+python GriefingTool.py
